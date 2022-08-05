@@ -34,13 +34,14 @@ body {
 h2 {
     color:hsl(218, 44%, 22%);
     font-weight: 700;
+    font-size: 22px;
 }
 
 p {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
     font-weight: 400;
-    margin: 20px;
+    margin: 10px;
 }
 
 
@@ -49,3 +50,4 @@ p {
     border-radius: 10px;
     max-width: 270px;
 }
+
